@@ -2,7 +2,8 @@
 
 # Customize these paths for your environment.
 # -----------------------------------------------------------
-hadoop.root=/usr/local/hadoop-3.3.5
+# hadoop.root=/usr/local/hadoop-3.3.5
+hadoop.root=/usr/local/hadoop
 jar.name=mr-demo-1.0.jar
 jar.path=target/${jar.name}
 job.name=wc.WordCount
